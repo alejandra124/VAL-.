@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PORTAFOLIO alejandra diaz</title>
+<body>
+    <nav class="menu">
+        <ul>
+            <li><a href="#Home">Inicio</a></li>
+            <li><a href="#About">Sobre mí</a></li>
+            <li><a href="#Projects">Proyectos</a></li>
+            <li><a href="#Contact">Contacto</a></li>
+        </ul>
+    </nav>
+    <header class="header">
+        <div class="header-text">
+            <span>VALÜ🌸</span>
+            <h1 class="header-text-frase">
+                TENGASE LA FE,<br>
+                NO SE SABOTEE 
+            </h1>
+            <p>Técnico en Desarrollo de Software</p>
+            <button>Contactame</button>
+        </div>
+        
+    </header>
