@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Monserrat', sans-serif;
+    overflow-x: hidden;
+}
+body {
+    font-family: 'Monserrat', sans-serif;
+    overflow-x: hidden;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content:space-arounds;
+    background-color: #333;
+}
+.menu ul li {
+  margin-left: 100px;
+  text-decoration: none;
+  
+
+}
+.menu ul li a {
+  text-decoration: none;
+  color: #ffb0d1; /* opcional para que se vea mejor sobre fondo oscuro */
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+}
+.menu ul li a:hover {
+  color: #fc85b6; /* Cambia el color al pasar el mouse */
+}
+.header{
+    background-image: url("Img/valu4.0.jpg");
+    padding: 20px;
+    background-size: cover;   
+    text-align: center;
+    display : flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+   
+    height: 150vh;
+}
+header h1 {
+    font-size: 3rem;
+    color: #ffb0d1;
+    text-shadow: 4px 4px 8px black;
+    
+    font-family: 'Oswald', sans-serif;
+}
+.header span{
+    color:aliceblue
+    display: block;
+    font-size: 1.5rem;
+    
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 40px;
+}
+.header p{
+    display: block;
+    font-size: 1.2rem;
+ 
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+}
+.header-text  button{
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
